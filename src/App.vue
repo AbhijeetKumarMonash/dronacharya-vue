@@ -7,6 +7,4 @@ import Landing from './Views/Landing.vue'
 </template>
 
 <style scoped>
-/* Global layout/styling will mostly come from Tailwind or your main stylesheet.
-   You can leave this empty for now. */
 </style>
